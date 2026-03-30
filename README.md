@@ -1,5 +1,5 @@
-# 🧠 Sobre meus projetos:
-- Meus repositórios incluem aplicações web, jogos, ferramentas e exemplos de integração com hardware. Abaixo está um resumo dos principais:
+# 🧠 Meus projetos:
+- Meus repositórios incluem aplicações web, jogos, ferramentas e exemplos de integração com hardware.
 
 # 💻 Web & JavaScript:
 - GerenciadorGastos – Aplicação web para controle de gastos pessoais com interface intuitiva em JavaScript.
