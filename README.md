@@ -3,12 +3,10 @@
 
 # 💻 Web & JavaScript:
 * GerenciadorGastos – Aplicação web para controle de gastos pessoais com interface intuitiva em JavaScript.
-* Gestao_Pessoal – Projeto de gerenciamento pessoal com funcionalidades de planejamento e monitoramento (inclui uso de LocalStorage e funcionalidades front-end).
-
 
 # 🎮 Jogos & Aplicações Didáticas:
 * JogoMemoria – Jogo da memória desenvolvido em CMake, ideal para praticar lógica e estrutura de projetos em C/C++.
-* 🔌 Projetos com Hardware (RP2040 / Microcontroladores)
+* Projetos com Hardware (RP2040 / Microcontroladores).
 
 # 🗂️ Projetos que exploram comunicação com hardware, mostrando controle de periféricos e leitura de sensores:
 * conversorAD – Demonstra o uso de ADC, joystick, PWM, LEDs e I2C com display SSD1306.
