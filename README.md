@@ -36,8 +36,8 @@
   - **[modulo_PWM](https://github.com/paolafms/modulo_PWM)** — Simulação e controle de ângulo de servomotor via PWM.
   - **[comunicacao_serial](https://github.com/paolafms/comunicacao_serial)** — Comunicação UART, SPI e I2C entre dispositivos.
   - **[semaforo](https://github.com/paolafms/semaforo)** — Simulação de semáforo com transições de estados (vermelho → amarelo → verde).
-  - **temporizador_disparo** — LEDs RGB com lógica de temporização.
-  - **interrupcoes** — Interrupções e controle de LEDs via microcontrolador.
+  - **[temporizador_disparo](https://github.com/paolafms/temporizador_disparo)** — LEDs RGB com lógica de temporização.
+  - **[interrupcoes](https://github.com/paolafms/interrupcoes)** — Interrupções e controle de LEDs via microcontrolador.
 
   ---
 
