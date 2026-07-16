@@ -21,7 +21,7 @@
 
   ---
 
-## 💡 Projetos em Destaque
+## 💡 Projetos
 
 ### 🌐 Web & JavaScript
 - **GerenciadorGastos** — Aplicação web para controle de gastos pessoais com interface intuitiva em JavaScript.
