@@ -24,18 +24,18 @@
 ## 💡 Projetos
 
 ### 🌐 Web & JavaScript
-- **GerenciadorGastos** — Aplicação web para controle de gastos pessoais com interface intuitiva em JavaScript.
+- **[GerenciadorGastos](https://github.com/paolafms/GerenciadorGastos)** — Aplicação web para controle de gastos pessoais com interface intuitiva em JavaScript.
 
 ### 🎮 Jogos & Aplicações Didáticas
-- **JogoMemoria** — Jogo da memória em CMake, desenvolvido para praticar lógica e estrutura de projetos em C/C++.
+- **[JogoMemoria](https://github.com/paolafms/JogoMemoria)** — Jogo da memória em CMake, desenvolvido para praticar lógica e estrutura de projetos em C/C++.
 
 ### 🔌 Hardware & Microcontroladores (RP2040)
    Projetos explorando comunicação com hardware, controle de periféricos e leitura de sensores:
 
-  - **conversorAD** — ADC, joystick, PWM, LEDs e I2C com display SSD1306.
-  - **modulo_PWM** — Simulação e controle de ângulo de servomotor via PWM.
-  - **comunicacao_serial** — Comunicação UART, SPI e I2C entre dispositivos.
-  - **semaforo** — Simulação de semáforo com transições de estados (vermelho → amarelo → verde).
+  - **[conversorAD](http://github.com/paolafms/conversorAD)** — ADC, joystick, PWM, LEDs e I2C com display SSD1306.
+  - **[modulo_PWM](https://github.com/paolafms/modulo_PWM)** — Simulação e controle de ângulo de servomotor via PWM.
+  - **[comunicacao_serial](https://github.com/paolafms/comunicacao_serial)** — Comunicação UART, SPI e I2C entre dispositivos.
+  - **[semaforo](https://github.com/paolafms/semaforo)** — Simulação de semáforo com transições de estados (vermelho → amarelo → verde).
   - **temporizador_disparo** — LEDs RGB com lógica de temporização.
   - **interrupcoes** — Interrupções e controle de LEDs via microcontrolador.
 
