@@ -1,7 +1,7 @@
  # Olá, sou a Paola! 👋
 
-  UX/UI Designer com formação em Sistemas de Informação, focada em criar
-  interfaces digitais acessíveis, funcionais e bem pensadas.
+UX/UI Designer com formação em Sistemas de Informação e pós-graduanda em Design de Produtos Digitais (UX/UI), focada em criar
+interfaces digitais acessíveis, funcionais e bem pensadas.
 
   ## 🎨 Portfólio
   **[paolafms.github.io/portfolio](https://paolafms.github.io/portfolio)**
