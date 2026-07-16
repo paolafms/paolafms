@@ -29,7 +29,7 @@
   - **JogoMemoria** — Jogo da memória em CMake, desenvolvido para praticar lógica e estrutura de projetos em C/C++.
 
   ### 🔌 Hardware & Microcontroladores (RP2040)
-  Projetos explorando comunicação com hardware, controle de periféricos e leitura de sensores:
+    Projetos explorando comunicação com hardware, controle de periféricos e leitura de sensores:
 
   - **conversorAD** — ADC, joystick, PWM, LEDs e I2C com display SSD1306.
   - **modulo_PWM** — Simulação e controle de ângulo de servomotor via PWM.
