@@ -1,18 +1,27 @@
-# 🧠 Meus Projetos:
-* Meus repositórios incluem aplicações web, jogos, ferramentas e exemplos de integração com hardware.
+ # Olá, sou a Paola! 👋
 
-# 💻 Web & JavaScript:
-* GerenciadorGastos – Aplicação web para controle de gastos pessoais com interface intuitiva em JavaScript.
+  UX/UI Designer com formação em Sistemas de Informação, focada em criar
+  interfaces digitais acessíveis, funcionais e bem pensadas.
 
-# 🎮 Jogos & Aplicações Didáticas:
-* JogoMemoria – Jogo da memória desenvolvido em CMake, ideal para praticar lógica e estrutura de projetos em C/C++.
-* Projetos com Hardware (RP2040 / Microcontroladores).
+  ## 🎨 Portfólio
+  **[paolafms.github.io/portfolio](https://paolafms.github.io/portfolio)**
 
-# 🗂️ Projetos que exploram comunicação com hardware, mostrando controle de periféricos e leitura de sensores:
-* conversorAD – Demonstra o uso de ADC, joystick, PWM, LEDs e I2C com display SSD1306.
-* modulo_PWM – Simulação e controle de ângulo de servomotor via PWM.
-* comunicacao_serial – Exemplos de comunicação UART, SPI e I2C entre dispositivos.
-* semaforo – Simulação de semáforo com transições de estados (vermelho → amarelo → verde).
-* temporizador_disparo – Projeto com LEDs RGB e lógica de temporização.
-* interrupcoes – Demonstração de interrupções e controle de LEDs via microcontrolador.
+  ---
 
+  ## 💼 Projetos em Destaque
+
+  ### 🌐 Web & JavaScript
+  - **GerenciadorGastos** — Aplicação web para controle de gastos pessoais com interface intuitiva em JavaScript.
+
+  ### 🎮 Jogos & Aplicações Didáticas
+  - **JogoMemoria** — Jogo da memória em CMake, desenvolvido para praticar lógica e estrutura de projetos em C/C++.
+
+  ### 🔌 Hardware & Microcontroladores (RP2040)
+  Projetos explorando comunicação com hardware, controle de periféricos e leitura de sensores:
+
+  - **conversorAD** — ADC, joystick, PWM, LEDs e I2C com display SSD1306.
+  - **modulo_PWM** — Simulação e controle de ângulo de servomotor via PWM.
+  - **comunicacao_serial** — Comunicação UART, SPI e I2C entre dispositivos.
+  - **semaforo** — Simulação de semáforo com transições de estados (vermelho → amarelo → verde).
+  - **temporizador_disparo** — LEDs RGB com lógica de temporização.
+  - **interrupcoes** — Interrupções e controle de LEDs via microcontrolador.
