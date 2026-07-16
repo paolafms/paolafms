@@ -1,4 +1,4 @@
-# Olá, sou Paola Fagundes! 👩‍💻
+# Olá, sou Paola Fagundes! 👩🏻‍💻
 
   UX/UI Designer com formação em Sistemas de Informação e pós-graduanda em
   Design de Produtos Digitais (UX/UI), focada em criar interfaces digitais
@@ -42,6 +42,5 @@
 
   ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paola-fagundes)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolafag28@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paola-fagundes)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolafag28@gmail.com)
